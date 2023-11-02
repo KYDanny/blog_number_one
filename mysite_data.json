@@ -1,0 +1,1216 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-10-25T05:45:03.111Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-10-25T06:23:38.043Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Third Post",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-10-25T07:43:06.304Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "One more post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-10-26T03:55:16.361Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Django Reinhardt, original name Jean Reinhardt, (born January 23, 1910, Liberchies, Belgium—died May 16, 1953, Fontainebleau, France), guitarist who is generally considered one of the few European jaz",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-10-26T03:55:51.022Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-10-27T06:21:33.514Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "another post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-10-27T06:21:37.095Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Third Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-10-27T06:21:40.757Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "One more post",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-10-27T06:21:43.587Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-10-30T07:53:48.791Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "another post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-10-30T07:53:48.798Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Third Post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-10-30T07:53:48.805Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "One more post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-10-30T07:55:26.733Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Introducing My Country: Taiwan",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-10-30T07:56:20.917Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Python Introduction",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-10-30T07:57:23.661Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Who Was Django Reinhardt",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-10-31T07:05:29.394Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "jazz",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-10-31T07:08:55.635Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Introducing My Country: Taiwan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-10-31T07:09:21.524Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Introducing My Country: Taiwan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-10-31T07:15:28.842Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Python Introduction",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-10-31T10:57:05.396Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Who is Duke Ellington",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-10-31T10:59:36.098Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Introduction of Miles Davis",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-11-01T14:39:37.065Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-11-01T15:02:04.519Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-11-01T15:04:38.290Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-11-01T15:05:09.558Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-11-01T15:06:08.355Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-11-02T02:18:32.050Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "example.com",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-11-02T02:20:43.527Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$HJYlN4h1RsYCcV20wpx7Ns$t9PcaQ2XjiKaDE9zZrg9es3itAnCiSLaNGjI3xqrhRs=",
+    "last_login": "2023-10-30T07:38:02.499Z",
+    "is_superuser": true,
+    "username": "Danny",
+    "first_name": "",
+    "last_name": "",
+    "email": "dannyjannacelia@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-25T03:47:59.754Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7ynelnr4lke9shjdbwrdqlyt2md8u1eu",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFuIQU8evcbyLK7SNVAUtqT8d9tkx70Npn3Zt4q4rqUuHaZ48TqokCdfruE9JS6A35gvTdNrS7zlPSu6IN2fWssr-vh_h0U7GVbZ2PDaAx58EgGswRDgwMGg34LMvgkRCQ5sM3IFJwjywEp8xkQRvX5Av16OSc:1qvUte:XbXsd0dshns6H3_m6mDg2ygT7FQHsbXGbH8_0HunNhw",
+    "expire_date": "2023-11-08T03:49:30.358Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hgso2h3whrcs2u00nufamd86vm09qp0p",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFuIQU8evcbyLK7SNVAUtqT8d9tkx70Npn3Zt4q4rqUuHaZ48TqokCdfruE9JS6A35gvTdNrS7zlPSu6IN2fWssr-vh_h0U7GVbZ2PDaAx58EgGswRDgwMGg34LMvgkRCQ5sM3IFJwjywEp8xkQRvX5Av16OSc:1qxMqY:84R7IeE7YgXdIz1y7bo37FkA7Rj-Gz6rHlADlKIPzF0",
+    "expire_date": "2023-11-13T07:38:02.508Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w3nr1ffswrta14xj25210qamg7hm8b9u",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFuIQU8evcbyLK7SNVAUtqT8d9tkx70Npn3Zt4q4rqUuHaZ48TqokCdfruE9JS6A35gvTdNrS7zlPSu6IN2fWssr-vh_h0U7GVbZ2PDaAx58EgGswRDgwMGg34LMvgkRCQ5sM3IFJwjywEp8xkQRvX5Av16OSc:1qvrRR:oH5VAi01ejMbJecDsHNE1iqDPUHcddZKsJ4hrge3nqg",
+    "expire_date": "2023-11-09T03:53:53.646Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Who Was Django Reinhardt",
+    "slug": "who-was-django-reinhardt",
+    "author": 1,
+    "body": "Django Reinhardt, original name Jean Reinhardt, (born January 23, 1910, Liberchies, Belgium—died May 16, 1953, Fontainebleau, France), guitarist who is generally considered one of the few European jazz musicians of true originality.\r\n\r\nReinhardt, who was of Roma (Gypsy) parentage, traveled through France and Belgium as a boy and young man learning to play the violin, guitar, and banjo. The loss of the use of two fingers of his left hand after a caravan fire in 1928 did not impair his remarkable aptitude for the guitar. In 1934 he became coleader, with violinist Stéphane Grappelli, of the Quintette du Hot Club de France, a group whose many records are greatly prized by connoisseurs. In his only visit to the United States, in 1946, Reinhardt toured with the Duke Ellington orchestra.\r\n\r\nFor most of his career Reinhardt played in the swing style that reached its peak of popularity in the 1930s. Perhaps his most lasting influence on jazz was the introduction of solos based on melodic improvisation, at a time when guitarists generally played chorded solos. His inimitable improvisations, particularly those in slow tempos, were often a curious but beguiling blend of Roma and jazz sounds. Among his guitar compositions transposed into orchestral works are “Nuages” and “Manoir des mes rêves.”",
+    "publish": "2023-10-26T03:54:51Z",
+    "created": "2023-10-26T03:55:16.358Z",
+    "updated": "2023-10-30T07:57:23.659Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Introducing My Country: Taiwan",
+    "slug": "introducing-my-country-taiwan",
+    "author": 1,
+    "body": "Taiwan, Chinese (Wade-Giles romanization) T’ai-wan or (Pinyin) Taiwan, Portuguese Formosa, island in the western Pacific Ocean that lies roughly 100 miles (160 km) off the coast of southeastern China. It is approximately 245 miles (395 km) long (north-south) and 90 miles (145 km) across at its widest point. Taipei, in the north, is the seat of government of the Republic of China (ROC; Nationalist China). In addition to the main island, the ROC government has jurisdiction over 22 islands in the Taiwan group and 64 islands to the west in the P’eng-hu (Pescadores) archipelago. Two island groups controlled by the ROC government, Matsu and Quemoy, lie just off the coast of China’s Fujian (Fukien) province. In the East China Sea, the ROC claims the group of islands it calls Diaoyutai, which also are claimed by Japan as Senkaku and by the People’s Republic of China as Diaoyu. Moreover, in the South China Sea, the ROC’s claim to the Paracels is disputed with the People’s Republic of China and Vietnam, whereas a larger group of countries—the People’s Republic of China, Vietnam, Malaysia, and the Philippines, in addition to the ROC—all claim the Spratly Islands.\r\n\r\nPrior to the 1600s, Taiwan was self-governing, although there was no central ruling authority. It was a colony of the Netherlands for about 40 years in the early to mid-17th century and was subsequently independent again for about two decades. China gained control there in the late 17th century and ruled Taiwan for some two centuries. Japan acquired Taiwan in 1895 following the first Sino-Japanese War, and it became a colony.\r\n\r\nTaiwan was returned to Nationalist Chinese control in 1945 following Japan’s defeat in World War II. However, in 1949 Chinese communist armies defeated Nationalist forces on the mainland and established the People’s Republic of China there. The Nationalist government and armies fled to Taiwan, again resulting in the separation of Taiwan from China. In the ensuing years the ROC claimed jurisdiction over the Chinese mainland as well as Taiwan, although in the early 1990s Taiwan’s government dropped this claim to China. The Chinese government in Beijing has maintained that it has jurisdiction over Taiwan and has continued to propound a one-China policy—a position that few countries in the world dispute. There has been no agreement, however, on how or when, if ever, the two entities will be reunified.",
+    "publish": "2023-10-30T07:53:50Z",
+    "created": "2023-10-30T07:55:26.729Z",
+    "updated": "2023-10-31T07:09:21.516Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Python Introduction",
+    "slug": "python-introduction",
+    "author": 1,
+    "body": "What is Python?\r\nPython is a popular programming language. It was created by Guido van Rossum, and released in 1991.\r\n\r\nIt is used for:\r\n\r\nweb development (server-side),\r\nsoftware development,\r\nmathematics,\r\nsystem scripting.\r\nWhat can Python do?\r\nPython can be used on a server to create web applications.\r\nPython can be used alongside software to create workflows.\r\nPython can connect to database systems. It can also read and modify files.\r\nPython can be used to handle big data and perform complex mathematics.\r\nPython can be used for rapid prototyping, or for production-ready software development.\r\nWhy Python?\r\nPython works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).\r\nPython has a simple syntax similar to the English language.\r\nPython has syntax that allows developers to write programs with fewer lines than some other programming languages.\r\nPython runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.\r\nPython can be treated in a procedural way, an object-oriented way or a functional way.\r\nGood to know\r\nThe most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.\r\nIn this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.\r\nPython Syntax compared to other programming languages\r\nPython was designed for readability, and has some similarities to the English language with influence from mathematics.\r\nPython uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.\r\nPython relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.",
+    "publish": "2023-10-30T07:56:04Z",
+    "created": "2023-10-30T07:56:20.914Z",
+    "updated": "2023-10-31T07:15:28.824Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Who is Duke Ellington",
+    "slug": "who-is-duke-ellington",
+    "author": 1,
+    "body": "Duke Ellington, byname of Edward Kennedy Ellington, (born April 29, 1899, Washington, D.C., U.S.—died May 24, 1974, New York, N.Y.), American pianist who was the greatest jazz composer and bandleader of his time. One of the originators of big-band jazz, Ellington led his band for more than half a century, composed thousands of scores, and created one of the most distinctive ensemble sounds in all of Western music.",
+    "publish": "2023-10-31T10:56:12Z",
+    "created": "2023-10-31T10:57:05.388Z",
+    "updated": "2023-10-31T10:57:05.388Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Introduction of Miles Davis",
+    "slug": "introduction-of-miles-davis",
+    "author": 1,
+    "body": "Miles Davis, in full Miles Dewey Davis III, (born May 26, 1926, Alton, Illinois, U.S.—died September 28, 1991, Santa Monica, California), American jazz musician, a great trumpeter who as a bandleader and composer was one of the major influences on the art from the late 1940s.",
+    "publish": "2023-10-31T10:58:52Z",
+    "created": "2023-10-31T10:59:36.091Z",
+    "updated": "2023-10-31T10:59:36.091Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n------\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n- One\r\n- Two\r\n- Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2023-11-01T14:36:35Z",
+    "created": "2023-11-01T14:39:37.053Z",
+    "updated": "2023-11-01T15:06:08.349Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 7,
+    "name": "Daniel",
+    "email": "dannyjannacelia@gmail.com",
+    "body": "This is helpful.",
+    "created": "2023-10-31T02:58:47.683Z",
+    "updated": "2023-10-31T02:58:47.683Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 7,
+    "name": "Daniel",
+    "email": "dannyjannacelia@gmail.com",
+    "body": "This is helpful.",
+    "created": "2023-10-31T02:59:50.483Z",
+    "updated": "2023-10-31T02:59:50.483Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 7,
+    "name": "Janna",
+    "email": "chiou.kuan.yih@gmail.com",
+    "body": "Nice to see this.",
+    "created": "2023-10-31T03:00:21.156Z",
+    "updated": "2023-10-31T03:00:21.156Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 5,
+    "name": "邱冠諭",
+    "email": "chiou.kuan.yih@gmail.com",
+    "body": "Now I know why it is called Django for this web development framework.",
+    "created": "2023-10-31T03:02:56.941Z",
+    "updated": "2023-10-31T03:02:56.941Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "Taiwan",
+    "slug": "taiwan"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Formosa",
+    "slug": "formosa"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "programming",
+    "slug": "programming"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "geek",
+    "slug": "geek"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "python",
+    "slug": "python"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
